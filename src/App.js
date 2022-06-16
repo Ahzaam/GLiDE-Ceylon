@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hello React World
+         Hello React World From GLiDE Ceylon
         </p>
-        </a>
+        
       </header>
     </div>
   );
